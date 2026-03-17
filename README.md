@@ -21,8 +21,8 @@ Load the weather dataset using pandas.
 ```
 /*
 Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
-Developed by: 
-RegisterNumber:  
+Developed by: sakthi sunthar k k
+RegisterNumber:  212225040361
 */
 import pandas as pd
 import numpy as np
